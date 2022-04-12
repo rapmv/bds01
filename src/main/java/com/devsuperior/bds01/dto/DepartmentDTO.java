@@ -11,8 +11,7 @@ public class DepartmentDTO implements Serializable {
 	public Long id;
 	public String name;
 	
-	public DepartmentDTO() {
-		
+	public DepartmentDTO() {	
 	}
 
 	public DepartmentDTO(Long id, String name) {
